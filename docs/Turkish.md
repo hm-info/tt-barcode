@@ -2,7 +2,7 @@
 
 ## Örnek Etiket
 
-### ![Sample Label](media/SampleEnglish.jpg)
+### ![Sample Label](_media/SampleEnglish.jpg)
 
 ## `1. Etiket Yazı Açıklamaları`
 #### `1a. Prog No` : 

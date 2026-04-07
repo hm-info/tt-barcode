@@ -2,7 +2,7 @@
 
 ## Sample Label 
 
-### ![Sample Label](media/SampleEnglish.jpg)
+### ![Sample Label](_media/SampleEnglish.jpg)
 
 ## `1. Label Text Descriptions`
 #### `1a. Prog No` : 
